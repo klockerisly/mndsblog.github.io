@@ -1,1 +1,1 @@
-# mndsblog.github.io
+# github.io
